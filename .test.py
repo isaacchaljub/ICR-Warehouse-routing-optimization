@@ -1,0 +1,3 @@
+salutation='hello'
+
+print(salutation)
